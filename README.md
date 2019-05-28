@@ -86,7 +86,7 @@ MyMoviz first app with React :
 - exchange frontend/backend
 - ES6
 
-<img width="960" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475275-c9d2a180-814d-11e9-8631-27f55d5b509d.jpg">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475275-c9d2a180-814d-11e9-8631-27f55d5b509d.jpg">
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -98,10 +98,10 @@ Whol'up first app with React Native :
 - login process
 - sign in / sign up
 - redux
-<img width="960" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475526-7ca2ff80-814e-11e9-959b-90dce5b9cb54.jpg">
-<img width="960" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475528-7d3b9600-814e-11e9-8251-8b90ab607e4f.jpg">
-<img width="960" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475529-7d3b9600-814e-11e9-93ee-889b046a403d.jpg">
-<img width="960" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475530-7d3b9600-814e-11e9-954a-8cf704f30bf8.jpg">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475526-7ca2ff80-814e-11e9-959b-90dce5b9cb54.jpg">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475528-7d3b9600-814e-11e9-8251-8b90ab607e4f.jpg">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475529-7d3b9600-814e-11e9-93ee-889b046a403d.jpg">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475530-7d3b9600-814e-11e9-954a-8cf704f30bf8.jpg">
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,8 +113,8 @@ LocaPic it's geoloc app with checkin system with facebook :
 - Web socketsand tchat
 - Local storage
 
-<img width="400" height="600" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475931-9bee5c80-814f-11e9-9995-7edb36567165.PNG">
-<img width="400" height="700" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475939-9e50b680-814f-11e9-94ed-febb2ce60d1d.PNG">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475931-9bee5c80-814f-11e9-9995-7edb36567165.PNG">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58475939-9e50b680-814f-11e9-94ed-febb2ce60d1d.PNG">
 <img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58476235-7ca3ff00-8150-11e9-8c6b-64724bad6c64.PNG">
-<img width="400" height="500" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58476238-7f065900-8150-11e9-8c3c-fdd3327b9ede.PNG">
+<img width="400" height="800" alt="mymails-part1-maquette" src="https://user-images.githubusercontent.com/33897124/58476238-7f065900-8150-11e9-8c3c-fdd3327b9ede.PNG">
 
