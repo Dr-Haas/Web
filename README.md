@@ -128,6 +128,6 @@ FaceUp it's react native app to facial recognition with I.A:
 - AI with Azure 
 - Facial recognition
 
-<img width="400" height="800" alt="https://user-images.githubusercontent.com/33897124/58477114-12408e00-8153-11e9-9382-5aa1b0ad1417.PNG">
-<img width="400" height="800" alt="https://user-images.githubusercontent.com/33897124/58477115-1371bb00-8153-11e9-9ef3-081b2ec36392.PNG">
-<img width="400" height="800" alt="https://user-images.githubusercontent.com/33897124/58477117-14a2e800-8153-11e9-9f2f-e44495d430ed.PNG">
+![IMG_3362](https://user-images.githubusercontent.com/33897124/58477114-12408e00-8153-11e9-9382-5aa1b0ad1417.PNG)
+![IMG_3364](https://user-images.githubusercontent.com/33897124/58477115-1371bb00-8153-11e9-9ef3-081b2ec36392.PNG)
+![IMG_3365](https://user-images.githubusercontent.com/33897124/58477117-14a2e800-8153-11e9-9f2f-e44495d430ed.PNG)
