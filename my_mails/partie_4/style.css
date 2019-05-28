@@ -1,0 +1,88 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #F5F6FA;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 14px;
+  margin: 0%;
+}
+
+.trash {
+  width:15px;
+  margin-left: 67px;
+}
+
+.avatar{
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  background-color: #FFFFFF;
+  border-top: 1px solid #DADADA ;
+  border-right: 1px solid #DADADA;
+  border-left: 1px solid #DADADA;
+  width : 700px;
+  padding: 15px;
+  color: black;
+}
+
+.last-row{
+  border-bottom: 1px solid #DFDFDF;
+}
+
+h6 {
+  font-size:14px;
+  margin: 0px;
+
+}
+
+#count {
+  font-weight: 600;
+}
+
+#add-message {
+  padding: 7px;
+  width: 80%;
+  margin-right: 10px;
+}
+
+.btn-blue{
+  background-color: transparent;
+  border-color: #3097D1;
+  color: #3097D1;
+  padding: 7px;
+  font-size: 16px;
+  font-weight: 300;
+  border-radius: 5px;
+  display: right;
+}
+
+.btn-blue:focus {
+  outline:0;
+}
+
+#search-message{
+  padding: 7px;
+  width: 50%;
+  margin-right: 10px;
+}
+
+/* applied to the new last row created in order to delete the double border */
+.new-last-row{
+  border-top: none;
+  border-bottom: 1px solid #DFDFDF;
+}
+
+/* applied to the divtext in order to always have the same width */
+.content {
+  width: 444px;
+}
