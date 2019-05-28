@@ -55,7 +55,7 @@ WeatherApp project is my first web app mobile and my first use API :
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-BlackBoard create database and managing plateform for store
+BlackBoard create database and managing plateform for store :
 
 - modelize database
 - foreign keys
@@ -76,3 +76,17 @@ BlackBoard create database and managing plateform for store
 <img width="1308" alt="Capture d’écran 2019-05-28 à 13 16 56" src="https://user-images.githubusercontent.com/33897124/58474417-5465d180-814b-11e9-93c2-0bb0537a1dcb.png">
 
 ---------------------------------------------------------------------------------------------------------------------------------
+
+MyMoviz first website with react :
+
+- composante and JSX
+- reactstrap
+- props/state
+- backend microservice
+- exchange frontend/backend
+- ES6
+
+![maquette-home-lastlike](https://user-images.githubusercontent.com/33897124/58475275-c9d2a180-814d-11e9-8631-27f55d5b509d.jpg)
+
+
+
