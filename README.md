@@ -1,6 +1,6 @@
-# Web
+# Web Project
 
-In this folder you can find all my web project in differente langage et framework:
+In this folder you can find all my web project in differente langage and framework:
 
 - Html/css
 - Javascript
