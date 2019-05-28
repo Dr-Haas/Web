@@ -107,6 +107,16 @@ Whol'up first app with React Native :
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-LocaPic second app with React Native
+LocaPic it's geoloc app with checkin system with facebook :
+
+- facebook Login
+- login with Passport
+- geolocalisation map
+- Web socketsand tchat
+- Local storage
+
+![IMG_3355](https://user-images.githubusercontent.com/33897124/58475931-9bee5c80-814f-11e9-9995-7edb36567165.PNG)
+![IMG_3356](https://user-images.githubusercontent.com/33897124/58475939-9e50b680-814f-11e9-94ed-febb2ce60d1d.PNG)
+![IMG_3357](https://user-images.githubusercontent.com/33897124/58475941-9f81e380-814f-11e9-8fc1-fd7610b47144.PNG)
 
 
