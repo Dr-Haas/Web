@@ -77,7 +77,7 @@ BlackBoard create database and managing plateform for store :
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-MyMoviz first website with react :
+MyMoviz first app with React :
 
 - composante and JSX
 - reactstrap
@@ -88,5 +88,25 @@ MyMoviz first website with react :
 
 ![maquette-home-lastlike](https://user-images.githubusercontent.com/33897124/58475275-c9d2a180-814d-11e9-8631-27f55d5b509d.jpg)
 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Whol'up first app with React Native :
+
+- expo
+- navigation
+- login process
+- sign in / sign up
+- redux
+
+![maquette1](https://user-images.githubusercontent.com/33897124/58475526-7ca2ff80-814e-11e9-959b-90dce5b9cb54.jpg)
+![maquette2](https://user-images.githubusercontent.com/33897124/58475527-7d3b9600-814e-11e9-9242-6cc98d335918.jpg)
+![maquette3](https://user-images.githubusercontent.com/33897124/58475528-7d3b9600-814e-11e9-8251-8b90ab607e4f.jpg)
+![maquette4](https://user-images.githubusercontent.com/33897124/58475529-7d3b9600-814e-11e9-93ee-889b046a403d.jpg)
+![maquette5](https://user-images.githubusercontent.com/33897124/58475530-7d3b9600-814e-11e9-954a-8cf704f30bf8.jpg)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+LocaPic second app with React Native
 
 
